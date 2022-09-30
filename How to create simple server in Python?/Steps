@@ -1,0 +1,8 @@
+Step 1:    Open any folder which contains html or html + css or Html + CSs + javascript files....
+
+Step 2:  After completing the first step, just open Command prompt(cmd) or powershell.
+
+Step 3: Write "python -m http.server"
+
+
+Step 4: open browser and type "localhost:8000"   and enjoy you projects with your server
